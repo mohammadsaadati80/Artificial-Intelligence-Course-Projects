@@ -4,3 +4,6 @@
 [submodule "CA1"]
 	path = CA1
 	url = https://github.com/mohammadsaadati80/Gandalf-and-Ring-Fellows
+[submodule "CA2P1"]
+	path = CA2P1
+	url = https://github.com/mohammadsaadati80/Connect4-Min-Max
