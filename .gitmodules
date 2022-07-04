@@ -19,3 +19,6 @@
 [submodule "CA5P1"]
 	path = CA5P1
 	url = https://github.com/mohammadsaadati80/Feed-Forward-Neural-Network
+[submodule "CA5P2"]
+	path = CA5P2
+	url = https://github.com/mohammadsaadati80/A-Z-Handwritten-Alphabets-Neural-Network
