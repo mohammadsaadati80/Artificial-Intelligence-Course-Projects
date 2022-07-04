@@ -16,3 +16,6 @@
 [submodule "CA4"]
 	path = CA4
 	url = https://github.com/mohammadsaadati80/Spotify-Music-Genre-Detection-ML
+[submodule "CA5P1"]
+	path = CA5P1
+	url = https://github.com/mohammadsaadati80/Feed-Forward-Neural-Network
