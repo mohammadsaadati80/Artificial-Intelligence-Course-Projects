@@ -1,3 +1,6 @@
 [submodule "CA0"]
 	path = CA0
 	url = https://github.com/mohammadsaadati80/Pandas-Numpy-Introduction
+[submodule "CA1"]
+	path = CA1
+	url = https://github.com/mohammadsaadati80/Gandalf-and-Ring-Fellows
